@@ -91,3 +91,14 @@ p {
     width: 55px;
     display: flex;
 }
+
+.new-user {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(238, 84, 118);
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}

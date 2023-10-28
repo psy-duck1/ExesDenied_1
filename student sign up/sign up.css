@@ -1,0 +1,84 @@
+p {
+    font-family: Syne, 'Courier New', Courier, monospace;
+}
+
+
+.heading1_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    width: 400px;
+    margin-top: 15px;
+
+}
+
+.heading1 div {
+    display: inline-block;
+    
+}
+
+.heading2_div {
+    margin-top: 0px;
+    
+}
+.heading2_text {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    padding-top:0;
+    margin-top: 20px;
+}
+
+.sign-up-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.input_3,
+.input_4,
+.input_5 {
+    display: block;
+}
+
+.input_3,
+.input_4,
+.input_5,
+.input_1,
+.input_2 {
+    font-size: 20px;
+    height: 40px;
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+    background-color: white;
+    background-color: rgb(171, 209, 209);
+
+
+}
+
+.input_2 {
+    margin-left: 20px;    
+}
+
+.input_1,
+.input_2 {
+    width: 185px;
+}
+
+.pure-button {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left:40%;
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 1px;
+    background-color: rgb(171, 209, 209)
+}
+
+.pure-button:hover {
+    cursor: pointer;
+}
