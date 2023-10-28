@@ -1,0 +1,72 @@
+p {
+    font-family: Syne, 'Courier New', Courier, monospace;
+}
+
+* {background-color: rgb(171, 209, 209)}
+
+.heading1_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    width: 400px;
+    margin-top: 60px;
+
+}
+
+.heading1 div {
+    display: inline-block;
+    
+}
+
+.heading2_div {
+    margin-top: 140px;
+    
+}
+.heading2_text {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+
+
+.prof-image,
+.student-image {
+    width: 200px; 
+    border-radius: 20px;   
+
+}
+
+.identity-confirm {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-top: 80px;
+
+}
+
+
+.prof-id,
+.student-id {
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    display: inline-block;
+    padding: 10px;
+
+
+}
+
+.student-id {
+    margin-left: 40px;
+}
+.Teacher-text,
+.student-text {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+    
+}
