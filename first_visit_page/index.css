@@ -5,16 +5,11 @@ p {
 * {background-color: rgb(171, 209, 209)}
 
 .heading1_pic {
-
-    text-align: center;
+    display:flex;
+    align-items: center;
     width: 400px;
     margin-top: 60px;
 
-}
-
-.heading1 div {
-    display: inline-block;
-    
 }
 
 .heading2_div {
@@ -42,6 +37,8 @@ p {
     margin-right: auto;
     width: 35%;
     margin-top: 80px;
+    border: green;
+    border: solid;
 
 }
 
@@ -49,7 +46,8 @@ p {
 .prof-id,
 .student-id {
     text-align: center;
-    border: none;
+    border: solid;
+    border: blue;
     border-radius: 5px;
     width: 300px;
     display: inline-block;
