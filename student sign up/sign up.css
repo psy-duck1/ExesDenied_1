@@ -1,6 +1,7 @@
 p {
     font-family: Syne, 'Courier New', Courier, monospace;
 }
+* {background-color: rgb(171, 209, 209)}
 
 
 .heading1_pic {
@@ -54,7 +55,6 @@ p {
     border-radius: 5px;
     padding-left: 10px;
     background-color: white;
-    background-color: rgb(171, 209, 209);
 
 
 }
@@ -76,7 +76,7 @@ p {
     width: 120px;
     height: 40px;
     border-radius: 1px;
-    background-color: rgb(171, 209, 209)
+    background-color:white;
 }
 
 .pure-button:hover {
